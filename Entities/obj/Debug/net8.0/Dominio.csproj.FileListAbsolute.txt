@@ -1,0 +1,12 @@
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.sourcelink.json
+G:\Repos\TEST-ACUDIR\Entities\bin\Debug\net8.0\Dominio.deps.json
+G:\Repos\TEST-ACUDIR\Entities\bin\Debug\net8.0\Dominio.dll
+G:\Repos\TEST-ACUDIR\Entities\bin\Debug\net8.0\Dominio.pdb
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.dll
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\refint\Dominio.dll
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\Dominio.pdb
+G:\Repos\TEST-ACUDIR\Entities\obj\Debug\net8.0\ref\Dominio.dll

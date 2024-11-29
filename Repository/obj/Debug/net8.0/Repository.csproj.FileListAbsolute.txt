@@ -1,0 +1,16 @@
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.sourcelink.json
+G:\Repos\TEST-ACUDIR\Repository\bin\Debug\net8.0\Repository.deps.json
+G:\Repos\TEST-ACUDIR\Repository\bin\Debug\net8.0\Repository.dll
+G:\Repos\TEST-ACUDIR\Repository\bin\Debug\net8.0\Repository.pdb
+G:\Repos\TEST-ACUDIR\Repository\bin\Debug\net8.0\Dominio.dll
+G:\Repos\TEST-ACUDIR\Repository\bin\Debug\net8.0\Dominio.pdb
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.dll
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\refint\Repository.dll
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\Repository.pdb
+G:\Repos\TEST-ACUDIR\Repository\obj\Debug\net8.0\ref\Repository.dll

@@ -1,23 +1,32 @@
-﻿[
-  {
-    "NombreCompleto": "Ramon Perez",
-    "Edad": "45",
-    "Domicilio": "Av Segurola 1445",
-    "Telefono": "4533542",
-    "Profesion": "Escritor"
-  },
-  {
-    "NombreCompleto": "Rita Pavone",
-    "Edad": "78",
-    "Domicilio": "Mercedes 4112",
-    "Telefono": "45333442",
-    "Profesion": "Doctora"
-  },
-  {
-    "NombreCompleto": "Pedro Franco",
-    "Edad": "34",
-    "Domicilio": "Camarones 2343",
-    "Telefono": "44565432",
-    "Profesion": "Programador"
-  }
-]  
+{
+  "Personas": [
+    {
+      "NombreCompleto": "Ramon Perez",
+      "Edad": "45",
+      "Domicilio": "Av Segurola 1445",
+      "Telefono": "4533542",
+      "Profesion": "Escritor"
+    },
+    {
+      "NombreCompleto": "Rita Pavone",
+      "Edad": "78",
+      "Domicilio": "Mercedes 4112",
+      "Telefono": "45333442",
+      "Profesion": "Doctora"
+    },
+    {
+      "NombreCompleto": "Pedro Franco",
+      "Edad": "34",
+      "Domicilio": "Camarones 2343",
+      "Telefono": "44565432",
+      "Profesion": "Programador"
+    },
+    {
+      "NombreCompleto": "Ivan Scopel",
+      "Edad": "27",
+      "Domicilio": "139",
+      "Telefono": "221123456",
+      "Profesion": "Desarrollador"
+    }
+  ]
+}
